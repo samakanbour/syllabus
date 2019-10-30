@@ -123,21 +123,21 @@ console.log(Object.entries(movie));
 ### Activities ###
 ------
 
-### Activity 1 - Reading Netflix ###
-  Request user for a movie title
-  Read movie data from Resources/netflix_ratings.csv
-  Check if movie provided by user exists
-  Print <title> is rated <rating> with a rating of <user rating score>
+## Activity 1 - Reading Netflix ##
+  * Request user for a movie title
+  * Read movie data from "Resources/netflix_ratings.csv"
+  * Check if title provided by user exists
+  * If exists, print <title> is rated <rating> with a rating of <user_rating_score>
 
 
-### Activity 2 - Udemy Zip ###
-  Read data from Resources/web_starter.csv
-  Store values of Title, Price, Subscriber Count, # reviews, % reviews,  Course Length in sperate arrays
-  Zip arrays together into a single tuple
-  Write zip content to CSV file
+## Activity 2 - Udemy Zip ##
+  * Read data from "Resources/web_starter.csv"
+  * Store values of Title, Price, Subscriber Count, # reviews, % reviews,  Course Length in sperate arrays
+  * Zip arrays together into a single tuple
+  * Write zip content to CSV file
 
 
-### Activity 3 - Word Counter ###
+## Activity 3 - Word Counter ##
   * Create a function in JS that counts the number of occurrences of each word in a string. 
   * Function should take in a string as its parameter
   * Function should return a key-value pair object with Words as keys and Word count as values.
