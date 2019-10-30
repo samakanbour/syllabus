@@ -1,4 +1,4 @@
-### Demo ###
+### Cheatsheet ###
 ------
 ![image](demo/gif.gif)
 > This class uses [Python 3.8](https://www.python.org/), HTML and JavaScript.
@@ -12,7 +12,7 @@
 3. Install pip to manage your Python packages
 
 
-### PYTHON CHEATSHEET ###
+### Python ###
 ------
 
 To run Python in the Command Line
@@ -60,7 +60,7 @@ with open(csvpath, 'w', newline='') as csvfile:
 ```
 
 
-### JAVASCRIPT CHEATSHEET ###
+### JavaScript ###
 ------
 
 To link your JavaScript file to your HTML
