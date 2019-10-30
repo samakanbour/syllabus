@@ -8,8 +8,6 @@ video = input("What show or movie are you looking for? ")
 # Set path for file
 csvpath = os.path.join("..", "Resources", "netflix_ratings.csv")
 
-# Bonus
-# ------------------------------------------
 # Set variable to check if we found the video
 found = False
 

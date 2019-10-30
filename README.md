@@ -118,3 +118,43 @@ To print all key-value pairs as an array
 ```js
 console.log(Object.entries(movie));
 ```
+
+
+### Activities ###
+------
+
+### Activity 1 - Reading Netflix ###
+  Request user for a movie title
+  Read movie data from Resources/netflix_ratings.csv
+  Check if movie provided by user exists
+  Print <title> is rated <rating> with a rating of <user rating score>
+
+
+### Activity 2 - Udemy Zip ###
+  Read data from Resources/web_starter.csv
+  Store values of Title, Price, Subscriber Count, # reviews, % reviews,  Course Length in sperate arrays
+  Zip arrays together into a single tuple
+  Write zip content to CSV file
+
+
+### Activity 3 - Word Counter ###
+  * Create a function in JS that counts the number of occurrences of each word in a string. 
+  * Function should take in a string as its parameter
+  * Function should return a key-value pair object with Words as keys and Word count as values.
+
+  * Takes **"I yam what I yam and always will be what I yam"**
+  * Returns   
+  ```js
+  {
+    I: 3,
+    always: 1,
+    am: 1,
+    and: 1,
+    be: 1,
+    what: 2,
+    will: 1,
+    yam: 3
+  }
+  ```
+
+
