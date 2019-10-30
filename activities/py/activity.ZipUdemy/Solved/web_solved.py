@@ -11,8 +11,8 @@ reviews = []
 review_percent = []
 length = []
 
-# with open(udemy_csv, newline="", encoding='utf-8') as csvfile:
-with open(udemy_csv, newline="") as csvfile:
+# encoding='utf-8'
+with open(udemy_csv, newline="", encoding='utf-8') as csvfile:
     csvreader = csv.reader(csvfile, delimiter=",")
     for row in csvreader:
         # Add title

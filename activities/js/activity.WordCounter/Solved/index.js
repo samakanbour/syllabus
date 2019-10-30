@@ -1,4 +1,6 @@
 function wordCount(myString) {
+  console.log(myString);
+
   // Convert string to an array of words
   var stringArray = myString.split(" ");
 
