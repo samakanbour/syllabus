@@ -1,4 +1,4 @@
-### Cheatsheet ###
+### Cheat Sheet ###
 ------
 ![image](demo/gif.gif)
 > This class uses [Python 3.8](https://www.python.org/), HTML and JavaScript.
